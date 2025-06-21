@@ -1,5 +1,4 @@
 to-do:
-- make mobile friendly
 
 Rende Arends
 
