@@ -68,12 +68,19 @@ button {
 
 /* main content */
 
+audio {
+    width: 70%;
+    background-color: orange;
+    border-radius: 1rem;
+    border-color: blue;
+}
+
 .main {
     width: 100%;
 }
 
 .main img {
-    width: 80%;
+    width: 70%;
 }
 
 /* window screen */
@@ -95,4 +102,20 @@ button {
 
 .windows img {
     height: 20vh;
+}
+
+@media screen and (max-width: 950px) {
+    .windows {
+        flex-shrink: 5;
+    }
+
+    .windows div {
+        flex-shrink: 5;
+        width: 100%;
+    }
+
+    .windows img {
+        width: 100%;
+        height: auto;
+    }
 }

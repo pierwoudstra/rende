@@ -1,6 +1,4 @@
 to-do:
-- peotry
-- video+music
 - make mobile friendly
 
 Rende Arends
@@ -11,22 +9,7 @@ Work:
         - Untitled 2025
         - Untitled 2025
     - Drawings
-        - 
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
-        -
+        - name
     - Video & music
         - De beste zet
         - Van kop tot teen
